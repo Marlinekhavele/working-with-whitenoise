@@ -25,7 +25,7 @@ SECRET_KEY = 'gs_2%d7gh!=^#8)ibq6gpmje%05&le8!kww@cc=*uza2w9j-o0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shrouded-shelf-99505']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
